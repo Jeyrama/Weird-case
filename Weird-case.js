@@ -24,3 +24,5 @@ function toWeirdCase(string){
     }).join('');
   }).join(' ');
 }
+
+// or
