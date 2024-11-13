@@ -13,3 +13,6 @@ Examples:
   "String" => "StRiNg"
   "Weird string case" => "WeIrD StRiNg CaSe"
 */
+
+
+// Solution
